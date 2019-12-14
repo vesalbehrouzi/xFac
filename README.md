@@ -1,2 +1,2 @@
 # xFac
-yet another IoC Container
+yet another IoC Container for .net
